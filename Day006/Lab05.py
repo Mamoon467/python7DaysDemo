@@ -4,8 +4,6 @@ class GrandFather:
 
     def lambo(self):
         print("Driving Lambo")
-
-
 class Father(GrandFather):
     def bhk(self):
         print("1BHK")
