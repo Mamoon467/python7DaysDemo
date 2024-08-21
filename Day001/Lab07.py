@@ -1,0 +1,6 @@
+a =int(input("enter the first number"))
+b =int(input("enter the second number"))
+print("Ans -> Sum =",a+b)
+print("Ans -> Sub=",a-b)
+print("Ans -> Prod=",a*b)
+print("Ans -> Divid =",a/b)
